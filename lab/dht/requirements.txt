@@ -1,1 +1,2 @@
-RPi.GPIO == 0.7.1
+Adafruit-Blinka == 8.39.1
+adafruit-circuitpython-dht == 4.0.4
